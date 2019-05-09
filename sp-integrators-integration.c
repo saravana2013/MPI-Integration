@@ -117,7 +117,6 @@ void usage()
 {
     printf("integration\n\
             MPI Program to approximate an integral.\n\
-            Jharrod LaFon 2011\n\
             Usage: integration [args]\n\
             a <start>\t\tStarting point of interval to be integrated\n\
             b <end>\t\tEnding point of interval to be integrated\n\
